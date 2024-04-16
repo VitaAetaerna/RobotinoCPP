@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" modified="2024-04-16T12:46:55.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="EHVUQC4rQ6h6xzcHKvI5" version="24.2.5" type="device">
+  <diagram name="Seite-1" id="kbj7lZu6iWOnHHzdtjGX">
+    <mxGraphModel dx="1666" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p_kpSig6QnGFYHW__Nis-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="targetPoint" />
+            <mxPoint x="190" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-2" value="Tisch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="10" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-3" value="Tisch" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="10" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p_kpSig6QnGFYHW__Nis-4" target="p_kpSig6QnGFYHW__Nis-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-4" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;Station 1&lt;/font&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=4;" parent="1" source="p_kpSig6QnGFYHW__Nis-6" target="p_kpSig6QnGFYHW__Nis-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;dashed=1;" parent="1" source="p_kpSig6QnGFYHW__Nis-6" target="p_kpSig6QnGFYHW__Nis-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-6" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;Station 2&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Fließband&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="10" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;M&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="820" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;K&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="740" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-12" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;Station 3&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;dashed=1;" parent="1" source="p_kpSig6QnGFYHW__Nis-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p_kpSig6QnGFYHW__Nis-14" target="p_kpSig6QnGFYHW__Nis-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-14" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;Zwischen Station&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-16" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;Station 4&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;" parent="1" source="p_kpSig6QnGFYHW__Nis-18" target="p_kpSig6QnGFYHW__Nis-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;" parent="1" source="p_kpSig6QnGFYHW__Nis-18" target="p_kpSig6QnGFYHW__Nis-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-18" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;Station 5&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-20" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Ablieferung&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="10" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;M&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;K&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-26" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;Base&lt;/font&gt;&lt;/u&gt;&lt;div&gt;&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 25px;&quot;&gt;0x 0y&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-27" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 20px;&quot;&gt;Station 6&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="180" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p_kpSig6QnGFYHW__Nis-28" value="&lt;u&gt;&lt;font color=&quot;#0a74ff&quot; style=&quot;font-size: 20px;&quot;&gt;Station 7&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="180" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
